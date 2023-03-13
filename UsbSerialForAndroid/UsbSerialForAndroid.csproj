@@ -6,5 +6,9 @@
     <ImplicitUsings>disable</ImplicitUsings>
     <AssemblyName>Android.UsbSerial</AssemblyName>
     <RootNamespace>Hoho.Android.UsbSerial</RootNamespace>
+    <PackageId>Hoho.Android.UsbSerial</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>mik3y, anotherlab</Authors>
+    <Company>Tyler Technologies</Company>
   </PropertyGroup>
 </Project>
